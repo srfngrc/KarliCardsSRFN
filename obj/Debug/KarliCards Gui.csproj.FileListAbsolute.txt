@@ -21,3 +21,27 @@ C:\VSprojects\KarliCards Gui\obj\Debug\KarliCards Gui.csproj.CoreCompileInputs.c
 C:\VSprojects\KarliCards Gui\obj\Debug\KarliCards Gui.exe
 C:\VSprojects\KarliCards Gui\obj\Debug\KarliCards Gui.pdb
 C:\VSprojects\KarliCards Gui\obj\Debug\GameClient.g.cs
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\KarliCards Gui.csprojAssemblyReference.cache
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\About.baml
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\MainWindow.baml
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\StartGame.baml
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\About.g.cs
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\GameClient.g.cs
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\MainWindow.g.cs
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\Options.g.cs
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\StartGame.g.cs
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\App.g.cs
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\KarliCards Gui_MarkupCompile.cache
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\KarliCards Gui_MarkupCompile.lref
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\KarliCards Gui.exe
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\KarliCards Gui.pdb
+C:\VSRepositories\KarliCardsSRFN\bin\Debug\KarliCards Gui.exe.config
+C:\VSRepositories\KarliCardsSRFN\bin\Debug\KarliCards Gui.exe
+C:\VSRepositories\KarliCardsSRFN\bin\Debug\KarliCards Gui.pdb
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\GameClient.baml
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\Options.baml
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\KarliCards Gui.g.resources
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\KarliCards_Gui.Properties.Resources.resources
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\KarliCards Gui.csproj.GenerateResource.cache
+C:\VSRepositories\KarliCardsSRFN\obj\Debug\KarliCards Gui.csproj.CoreCompileInputs.cache
