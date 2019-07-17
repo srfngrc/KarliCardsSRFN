@@ -23,5 +23,19 @@ namespace KarliCards_Gui
         {
             InitializeComponent();
         }
+        private void CommandCanExecute(object sender, CanExecuteRoutedEventArgs e)
+        {
+            if (e.Command == ApplicationCommands.Close)
+                e.CanExecute = true;
+            if (e.Command == ApplicationCommands.Save)
+                e.CanExecute = false;
+            e.Handled = true;
+        }
+        private void CommandExecuted(object sender, ExecutedRoutedEventArgs e)
+        {
+            if (e.Command == ApplicationCommands.Close)
+                this.Close();
+            e.Handled = true;
+        }
     }
 }
